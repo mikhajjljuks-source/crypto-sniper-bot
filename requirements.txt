@@ -1,0 +1,9 @@
+streamlit
+yfinance
+pandas
+plotly
+langchain-openai
+langchain-community
+tavily-python
+python-dotenv
+kaleido==0.2.1
